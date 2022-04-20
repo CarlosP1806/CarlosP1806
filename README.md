@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos Páez
 JavaScript Web Developer
 ------------------------
 
-I am a frontend JavaScript developer with experience in creating awesome websites for clients. I have knowledge both in frontend (HTML, CSS, JavaScript, React) and backend (Express, Node, MongoDb, SQL).
+I'm a frontend JavaScript developer with experience in creating awesome websites for clients. I work with both plain JavaScript and frameworks, specially React. I also have knowledge in backend technologies, such as node and express. I'm currently looking for a part-time job where I can contribute to the creation of software, while at the same time increase my knowledge guided by senior developers.
 
 *   🌍  I'm based in Querétaro, México
 *   ✉️  You can contact me at [carlosalbertopaez2002@gmail.com](mailto:carlosalbertopaez2002@gmail.com)
