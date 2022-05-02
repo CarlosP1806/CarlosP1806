@@ -8,7 +8,7 @@ I'm a frontend JavaScript developer with experience in creating awesome websites
 
 *   🌍  I'm based in Querétaro, México
 *   ✉️  You can contact me at [carlosalbertopaez2002@gmail.com](mailto:carlosalbertopaez2002@gmail.com)
-*   🚀  I'm currently working on [Shalott Ecommerce Site](http://https://pure-island-66785.herokuapp.com/)
+*   🚀  I'm currently working on [Shalott Ecommerce Site](http://pure-island-66785.herokuapp.com/)
 *   🧠  I'm learning MERN Stack
 
 ### Skills
