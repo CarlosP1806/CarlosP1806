@@ -1,16 +1,16 @@
-Hi 👋 My name is Carlos Páez
-============================
+## Hi 👋 My name is Carlos Páez
 
-JavaScript Web Developer
-------------------------
-
-I'm a frontend JavaScript developer with experience in creating awesome websites for clients. I work with both plain JavaScript and frameworks, specially React. I also have knowledge in backend technologies, such as node and express. I'm currently looking for a part-time job where I can contribute to the creation of software, while at the same time increase my knowledge guided by senior developers.
+### Jr. Software Engineer
+I am a Computer Science student with a strong passion for developing high-impact
+software. I enjoy working in dynamic environments, where I have the opportunity to
+focus on execution and continuously learn new skills to solve problems. Looking
+forward to expanding my tech stack and improving my coding skills with the guidance of
+senior developers.
 
 *   🌍  I'm based in Ciudad de México, México
 *   ✉️  You can contact me at [carlosalbertopaez2002@gmail.com](mailto:carlosalbertopaez2002@gmail.com)
-*   🚀  I'm currently working on [Shalott Ecommerce Site](https://shalott-website.herokuapp.com/)
-*   🧠  I'm learning MERN Stack
-
+*   🚀  I'm currently working on [MedSpace]([https://shalott-website.herokuapp.com/](https://github.com/CarlosP1806/medspace-frontend))
+*   🧠  I'm perfectioning my CLEAN architecture skills!
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
